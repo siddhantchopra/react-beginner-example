@@ -19,7 +19,7 @@ export const App = () => {
             <h2 className="subtitle">Here are the two link where you can see use of react portals and useReducer</h2>
                 </header>
             <div id="navMenu" class="navbar-menu container">      
-                <div class="navbar-start">
+                <div className="navbar-start">
                     <Link to="/modal" class="navbar-item" href="admin.html">
                         Modal Example
                     </Link>
