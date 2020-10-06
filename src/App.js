@@ -18,12 +18,12 @@ export const App = () => {
             <h1 className="title">React Example for beginner</h1>
             <h2 className="subtitle">Here are the two link where you can see use of react portals and useReducer</h2>
                 </header>
-            <div id="navMenu" class="navbar-menu container">      
+            <div id="navMenu" className="navbar-menu container">      
                 <div className="navbar-start">
-                    <Link to="/modal" class="navbar-item" href="admin.html">
+                    <Link to="/modal" className="navbar-item" href="admin.html">
                         Modal Example
                     </Link>
-                    <Link to="/todo" class="navbar-item" href="admin.html">
+                    <Link to="/todo" className="navbar-item" href="admin.html">
                         Todo Example
                     </Link>
                     <button className="btn btn-secondary ml-5" onClick={handleMode}>Toggle DarkMode</button>
