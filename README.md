@@ -17,3 +17,7 @@ Steps to run project directory:
 
 ![todo](https://user-images.githubusercontent.com/30842286/95176822-0353fc00-07db-11eb-97cf-355fd7ec4e61.png)
 
+### React Autocomplete search with arrow and Enter navigation
+
+![search](https://user-images.githubusercontent.com/30842286/95677755-55cf5700-0be5-11eb-847b-cc3cc15d7005.png)
+
