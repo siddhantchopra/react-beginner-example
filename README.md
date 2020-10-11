@@ -1,5 +1,7 @@
 # React Beginner example to learn hooks, portals, lazy, router
 
+## Playground App: https://react-examples-begginers.herokuapp.com/
+
 ## Available Scripts
 
 Steps to run project directory:
