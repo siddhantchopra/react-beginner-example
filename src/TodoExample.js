@@ -39,6 +39,7 @@ const handleSubmit=(e)=>{
 }
     return (
                <div className="container">
+                   <h3>React Hooks (useReducer)</h3>
                 <div className="columns">
                     <div className="column is-9">
                         <div className="columns">

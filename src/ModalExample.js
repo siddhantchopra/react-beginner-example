@@ -17,6 +17,7 @@ const ModalExample = () => {
     const [isOpen, setIsOpen] = useState(false)
     return (<>
         <div style={BUTTON_WRAPPER_STYLE} className="container">
+            <h3>React portals</h3>
                  <div className="columns">
                  <Modal open={isOpen} onClose={() => setIsOpen(false)}>
                 <p>Here we have used React Portals to use Modal efficienty and defined outisde the root react application. Now you can place this Modal Component anywhere in the application. By using portals, react has chained this outermost Component with javascript tree . Here you can use event delegation</p>
@@ -34,9 +35,7 @@ const ModalExample = () => {
                  </button>
             </div>
             </div>
-        </div>
-     
-       
+        </div>  
     </>
 
     )
